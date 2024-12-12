@@ -1,0 +1,17 @@
+version: 1.4.1
+root_dir: /home/dan/go/src/ip/ipgrid-test/new/soc-ex2/vendor/axi
+manifest:
+    product_id: a454541c-ede6-4a7d-af13-cf17a3b21c96
+    release_id: b46583d3-c0b9-46f4-b02d-0cf0031d5af3
+    company: openhw
+    name: axi
+    release: 2-4-1
+    uri: openhw/axi/2-4-1
+    product_type: ""
+    product_category: ""
+    use_semver: false
+    package_sources: true
+    fp_extensions: .v
+    product_index: ipindex
+    last_update: 0001-01-01T00:00:00Z
+    description: AXI Master and Slave Interface
